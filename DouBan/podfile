@@ -1,0 +1,2 @@
+pod 'AFNetworking', '~> 2.5'
+pod 'UIImageView_AFNetworking-Blocks', '~> 0.1.0'
