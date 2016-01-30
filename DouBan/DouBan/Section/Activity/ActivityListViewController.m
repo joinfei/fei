@@ -54,7 +54,7 @@
     }
     //NSLog(@"%@", self.dataSource);
     //刷新界面
-    [self.tableView reloadData];
+    //[self.tableView reloadData];
 }
 
 
